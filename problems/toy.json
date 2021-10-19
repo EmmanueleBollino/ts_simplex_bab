@@ -1,0 +1,7 @@
+{
+	"min_max": "max",
+	"objective": [13, 8],
+	"constraints": [[1, 2], [5, 2]],
+	"terms": [10, 20],
+	"operators": ["<=", "<="]
+}
